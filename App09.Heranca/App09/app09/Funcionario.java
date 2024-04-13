@@ -1,4 +1,4 @@
-package App09;
+package app09;
 
 public class Funcionario extends Pessoa{
 	private String setor;

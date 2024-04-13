@@ -1,4 +1,4 @@
-package App09;
+package app09;
 
 public class Aluno extends Pessoa{
 	private int matr;

@@ -1,4 +1,4 @@
-package App09;
+package app09;
 
 public class Pessoa {
 	private String nome;
